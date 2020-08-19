@@ -1,0 +1,11 @@
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.exe
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.deps.json
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.runtimeconfig.json
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.runtimeconfig.dev.json
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.dll
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\bin\Debug\netcoreapp3.0\SistemaLoja.pdb
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\obj\Debug\netcoreapp3.0\SistemaLoja.csprojAssemblyReference.cache
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\obj\Debug\netcoreapp3.0\SistemaLoja.AssemblyInfoInputs.cache
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\obj\Debug\netcoreapp3.0\SistemaLoja.AssemblyInfo.cs
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\obj\Debug\netcoreapp3.0\SistemaLoja.dll
+C:\Users\neila\Projetos\SistemaLoja\SistemaLoja\obj\Debug\netcoreapp3.0\SistemaLoja.pdb
